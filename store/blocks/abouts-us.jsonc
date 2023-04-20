@@ -26,7 +26,7 @@
     },
     "rich-text#about-content": {
         "props": {
-            "text": " ### _This is the VTEX Minimum Theme_ \n you can use it to test blocks usage and build your first store from scratch."
+            "text": " ### _This is the VTEX Minimum Theme_ \n you can use it to test blocks usage and build your first store from scratch. \n [Click Here](https://cauemarques--acctglobal.myvtex.com/)"
         }
     },
     "image#about-us": {
